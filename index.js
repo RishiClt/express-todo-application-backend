@@ -97,7 +97,7 @@ app.get("/get/:id" , async(req, res)=>{
         }
     })
 
-    res.status(200).json(obj);
+    res.status(200).json(obj); 
 })
 
 app.listen(3000,()=>{
