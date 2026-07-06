@@ -1,1 +1,2 @@
-This is a work in Progress item. Not an open repo for contributions 
+## Todo-Application 
+* Todo application , writes and reades todos from a text file .
